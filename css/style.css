@@ -3485,7 +3485,7 @@ align-items: start;}
 /* --- [Slide 13] iPhone Mockup Background 레이아웃 --- */
 .s6-slide.slide13 {
     /* 이미지를 배경으로 설정 */
-    background: url('/images/sla1313.png') no-repeat center center;
+    background: url('../images/sla1313.png') no-repeat center center;
     
     /* 배경 이미지가 요소의 전체 크기를 덮도록 설정 (꽉 차게 함) */
     background-size: cover;
@@ -4308,7 +4308,7 @@ align-items: start;}
     margin: 0 auto;
     
     /* 배경 이미지 설정 */
-    background-image: url('/images/book2.png');
+    background-image: url('../images/book2.png');
     background-repeat: no-repeat;
     background-position: center center;
     background-size: cover; /* 여백 없이 꽉 채움 */
